@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1182-game-play-analysis-iv](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/1292-immediate-food-delivery-ii) |
 ## Hash Table
 |  |
