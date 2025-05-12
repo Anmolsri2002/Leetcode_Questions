@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1500-count-largest-group](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/1500-count-largest-group) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/0908-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
