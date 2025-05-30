@@ -40,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
+## Tree
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
