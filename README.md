@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [1500-count-largest-group](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/1500-count-largest-group) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Array
 |  |
 | ------- |
@@ -59,8 +61,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Counting
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Stack
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
