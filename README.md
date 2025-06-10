@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/1500-count-largest-group) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
