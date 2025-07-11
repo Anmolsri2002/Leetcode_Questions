@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [1500-count-largest-group](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/1500-count-largest-group) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2479-meeting-rooms-iii](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2479-meeting-rooms-iii](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2479-meeting-rooms-iii) |
 | [3194-find-words-containing-character](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3194-find-words-containing-character) |
 ## Matrix
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2479-meeting-rooms-iii](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
 |  |
@@ -94,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Sorting
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2479-meeting-rooms-iii) |
+## Simulation
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2479-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
