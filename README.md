@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2479-meeting-rooms-iii](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2479-meeting-rooms-iii) |
 | [3194-find-words-containing-character](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3194-find-words-containing-character) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Enumeration
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sorting
 |  |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+## Binary Search
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
