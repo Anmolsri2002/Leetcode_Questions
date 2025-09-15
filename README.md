@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
