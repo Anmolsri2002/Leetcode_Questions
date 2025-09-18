@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Anmolsri2002/Leetcode_Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Search
 |  |
